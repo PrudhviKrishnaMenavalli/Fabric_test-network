@@ -1,5 +1,5 @@
 # Fabric_test-network
-Here you find instructions to start your Hyperledger fabric test-network.
+Here you find instructions to start your Hyperledger fabric test-network in your linux/ubuntu system.
 
 First Create a folder and navigate to that folder in terminal. Now, download the prereqs-ubuntu.sh file into your local machine.
 
