@@ -30,7 +30,7 @@ This networkup function
  *Create a crypto materials
  *Then start docker network using docker compose file which is already included as a part of this test-network folder.
  
-Once, network got sucessfully up and running, Use the below command to create channel called mychannel on your network.
+Once, network got sucessfully up and running, Use the below command to create channel called **mychannel** on your network.
 ```
 ./network.sh createChannel
 ```
@@ -52,3 +52,5 @@ To stop and clean the docker containers, run the below command
 docker rm -f $(docker ps -aq) 
 docker volume rm $(docker volume ls)
 ```
+
+**A big Thank you for following me**:heart: :pray:
