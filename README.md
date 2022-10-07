@@ -53,4 +53,4 @@ docker rm -f $(docker ps -aq)
 docker volume rm $(docker volume ls)
 ```
 
-**A big Thank you for following me**:heart: :pray:
+**A big Thank you for following me**:heart:. Kindly share this with your friends who are interested to learn Hyperledger fabric :pray:
