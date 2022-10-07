@@ -26,9 +26,9 @@ To start the network, run the below command
 ./network.sh up
 ```
 This networkup function
- *first check the pre-requisites
- *Create a crypto materials
- *Then start docker network using docker compose file which is already included as a part of this test-network folder.
+ * first check the pre-requisites
+ * Create a crypto materials
+ * Then start docker network using docker compose file which is already included as a part of this test-network folder.
  
 Once, network got sucessfully up and running, Use the below command to create channel called **mychannel** on your network.
 ```
